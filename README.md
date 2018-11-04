@@ -42,3 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 Bob Singh - instructor at De Anza College
+
+## Notes
+
+If you have any suggestion for more features, please let me know. I'd really appreciate constructive suggestion.
